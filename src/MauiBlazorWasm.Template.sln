@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiBlazorWasm.Template.Shared", "MauiBlazorWasm.Template.Shared\MauiBlazorWasm.Template.Shared.csproj", "{38FA86E3-AD60-4769-A7FE-0F0099D41597}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiBlazorWasm.Template.Web", "MauiBlazorWasm.Template.Web\MauiBlazorWasm.Template.Web.csproj", "{CBED29B3-06D5-4788-BEA9-C89A13EEB320}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiBlazorWasm.Template.MAUI", "MauiBlazorWasm.Template.MAUI\MauiBlazorWasm.Template.MAUI.csproj", "{F425BA7F-5F4F-471B-B753-EDAD492AC791}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38FA86E3-AD60-4769-A7FE-0F0099D41597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38FA86E3-AD60-4769-A7FE-0F0099D41597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38FA86E3-AD60-4769-A7FE-0F0099D41597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38FA86E3-AD60-4769-A7FE-0F0099D41597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBED29B3-06D5-4788-BEA9-C89A13EEB320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBED29B3-06D5-4788-BEA9-C89A13EEB320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBED29B3-06D5-4788-BEA9-C89A13EEB320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBED29B3-06D5-4788-BEA9-C89A13EEB320}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F425BA7F-5F4F-471B-B753-EDAD492AC791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F425BA7F-5F4F-471B-B753-EDAD492AC791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F425BA7F-5F4F-471B-B753-EDAD492AC791}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F425BA7F-5F4F-471B-B753-EDAD492AC791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F425BA7F-5F4F-471B-B753-EDAD492AC791}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F425BA7F-5F4F-471B-B753-EDAD492AC791}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C14085DF-E63E-44A6-9A4A-E8941443223B}
+	EndGlobalSection
+EndGlobal

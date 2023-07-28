@@ -1,0 +1,19 @@
+{
+    "$schema": "https://json.schemastore.org/template",
+    "author": "ReadieFur",
+    "classifications": [
+        "Web",
+        "MAUI",
+        "Blazor"
+    ],
+    "identity": "ReadieFur.MauiBlazorWasm.Template",
+    "name": "MAUI Blazor WASM Template",
+    "description": "A template for creating a MAUI Blazor WASM project.",
+    "shortName": "mauiblazorwasm",
+    "tags": {
+        "language": "C#",
+        "type": "solution"
+    },
+    "preferNameDirectory": true,
+    "sourceName": "MauiBlazorWasm.Template"
+}
